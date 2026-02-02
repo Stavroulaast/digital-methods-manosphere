@@ -1,4 +1,4 @@
-# Manoshpere | Neoliberal Market Logic in Online Masculinity Communities: A Study of FORUMS.RED
+## Manoshpere | Neoliberal Market Logic in Online Masculinity Communities: A Study of FORUMS.RED
 ### course project: Digital Methods | SODAS, University of Copenhagen, Spring 2025 
 
 This project analyzes discourse from the online forum forums.red, a hub for red pill ideology, to understand how masculine identity is shaped through financial advice, self-improvement narratives, and sexual strategy.Using a mixed-methods approach, we examined how users frame gender relations through the logic of competition, value, and market exchange.
